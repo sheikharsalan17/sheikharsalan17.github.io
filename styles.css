@@ -78,6 +78,7 @@ h3 { margin-bottom: 1rem; font-size: clamp(1.28rem, 1.8vw, 1.55rem); font-weight
 .project-main h3, .writing-content h3 { margin-bottom: .75rem; font-size: clamp(1.65rem, 2.5vw, 2.3rem); line-height: 1.2; }
 .project-authors { margin-bottom: 1.45rem; color: var(--accent); font-size: .86rem; font-weight: 700; line-height: 1.6; }
 .project-main > p:not(.project-authors), .writing-content > p:not(.project-authors) { max-width: 75ch; margin-bottom: 1rem; color: #374b57; font-size: .96rem; line-height: 1.78; }
+.project-main > .abstract-label, .writing-content > .abstract-label { margin-bottom: .65rem; color: var(--accent); font-size: .72rem; font-weight: 700; letter-spacing: .12em; line-height: 1.4; text-transform: uppercase; }
 .project-main > p:last-child, .writing-content > p:last-child { margin-bottom: 0; }
 .writing-section { padding-block: clamp(4.5rem, 7vw, 6.5rem); }
 .writing-section .eyebrow { margin-bottom: .85rem; }
