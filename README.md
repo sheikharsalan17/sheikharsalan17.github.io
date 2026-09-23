@@ -16,4 +16,4 @@ Then visit `http://localhost:8000`.
 
 Edit the files and push changes to the repository's `main` branch. GitHub Pages publishes from the repository root.
 
-The CV and full research links currently point to the existing Google Sites pages. They can be replaced when those pages are migrated.
+The site is self-contained: `index.html` is the homepage, `research.html` and `teaching.html` are the other pages, and `assets/academic-cv.pdf` is a hosted copy of the academic CV. Replace that PDF whenever the CV is updated.
