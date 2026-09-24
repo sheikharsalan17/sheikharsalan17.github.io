@@ -18,5 +18,5 @@ Edit the files and push changes to the repository's `main` branch. GitHub Pages 
 
 The site is self-contained: `index.html` is the homepage, `research.html` and `teaching.html` are the other pages, and the two PDFs in `assets/` are hosted copies of the CV and résumé. Replace these PDFs whenever their Overleaf versions are updated:
 
-- `assets/academic-cv.pdf` comes from the Dropbox-synced Overleaf file `Sheikh_ArsalanulHaque_CV/Academic_CV_NBER_Workshop_2026.pdf` (September 2026).
+- `assets/academic-cv.pdf` comes from the general Dropbox-synced Overleaf file `Sheikh_ArsalanulHaque_CV/Academic CV.pdf` (July 2026).
 - `assets/corporate-resume.pdf` comes from `Sheikh_ArsalanulHaque_CV/Corporate CV.pdf` (September 2026).
