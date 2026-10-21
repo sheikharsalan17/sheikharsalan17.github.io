@@ -12,6 +12,8 @@ python3 -m http.server 8000
 
 Then visit `http://localhost:8000`.
 
+The stylesheet URL in every HTML page includes a content hash (`styles.css?v=…`). When changing CSS, update that hash in all four pages so returning visitors receive the new layout. Responsive images use `height: auto`; the portrait overrides this inside its cropped frame.
+
 ## Update the live site
 
 Edit the files and push changes to the repository's `main` branch. GitHub Pages publishes from the repository root.
