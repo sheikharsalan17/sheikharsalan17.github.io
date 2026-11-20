@@ -26,9 +26,9 @@ The site is self-contained: `index.html` is the homepage, `research.html`, `teac
 
 ## Research figures and teaching evaluations
 
-- `assets/figures/marriage-entry-schooling.png`: JMP blog figure, with Rounak Bose.
+- `assets/figures/marriage-entry-schooling.png`: Marriage-entry estimates for ages 12–17 by primary completion, with Rounak Bose. The point estimates and state-clustered 95% confidence intervals come from the November 20, 2026 job market paper’s replication output.
 - `assets/figures/inheritance-marriage-timing.png`: pooled anticipation-sample marriage-timing figure, October 20, 2026.
 - `assets/figures/inheritance-land-control.svg` and its mobile variant: paired-point comparison of descriptive involvement in inherited land among all recipients. Restyled October 21, 2026 from the October 20 person-level replication summary; PNG downloads are also included. All six categories and twelve percentages match the original aggregate results (392 usable responses for women, 913 for men).
 - Course evaluation PDFs are split by course: ECON 103 (Delaware, Winter 2026) and ECON 240 (LUMS, Summer 2025). They preserve the original evaluation pages, including comments and scale notes.
 
-The marriage-entry and marriage-timing images are unchanged copies of research outputs. The land-control chart is redrawn from verified aggregate counts; its desktop and phone layouts use the same data. Keep source notes, co-author attribution, sample definitions, and descriptive image alternatives in sync when replacing figures. The job market paper is hosted at `assets/papers/triple-talaq.pdf`; its research-page abstract matches the posted manuscript.
+The marriage-timing image is an unchanged copy of a research output. The land-control chart is redrawn from verified aggregate counts; its desktop and phone layouts use the same data. Keep source notes, co-author attribution, sample definitions, and descriptive image alternatives in sync when replacing figures. The job market paper is hosted at `assets/papers/triple-talaq.pdf`; its research-page abstract matches the posted manuscript.
